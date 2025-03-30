@@ -17,8 +17,6 @@ This Sales Overview provides key insights into revenue, sales trends, product pe
 
 ## 📌 2. Sales by Product (Best & Worst Performers)
 📊 Visual: Stacked Bar Chart – Sales by Product
-✔ Top 5 Best-Selling Products → Key revenue drivers
-✔ Bottom 5 Worst-Selling Products → Reevaluate inventory & marketing
 
 📌 3. Sales Performance Over Time
 📈 Visual: Line Chart – Sales Trend by Month
